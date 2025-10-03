@@ -1,0 +1,40 @@
+# Lenovo4Good Project Context
+
+## Quick Overview
+Integrated AI Accessibility Platform for the Scott-Morgan Foundation consolidating assistive technologies including eye tracking, smart robotic wheelchairs, voice cloning, avatars, and AI assistants.
+
+## Key Technologies
+- **Languages:** JavaScript/TypeScript, C#, Swift, C++
+- **Focus:** Accessibility, real-time processing, privacy, security
+- **Standards:** WCAG 2.1 Level AA minimum
+
+## Common Tasks
+- Accessibility-first development
+- Real-time processing optimization (<100ms for eye tracking, <50ms for wheelchair controls)
+- Security-focused implementation (OWASP Top 10 compliance)
+- Cross-platform development
+
+## Important Files
+- `.cursor/rules.md` - AI assistant behavior and project guidelines
+- `.cursor/programming-guide.md` - Multi-language coding standards
+- `.cursor/security.md` - OWASP security guidelines
+- `README.md` - Project documentation
+
+## Performance Targets
+- Eye tracking: <100ms latency
+- Voice processing: <200ms latency
+- Wheelchair controls: <50ms latency
+- UI updates: 60fps minimum
+
+## Testing Requirements
+- Minimum 80% code coverage
+- Accessibility testing mandatory
+- Security testing required
+- Integration tests for assistive tech
+
+## Remember
+- Always consider WCAG guidelines
+- Implement proper error handling
+- Encrypt sensitive data
+- Optimize for real-time responsiveness
+- Document accessibility features
